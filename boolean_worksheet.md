@@ -5,25 +5,30 @@
 ![image](https://user-images.githubusercontent.com/88994602/141028402-935a8db5-c04d-4a52-9523-0156dbb43278.png)
 
 1.1 - x = AB ⊕ notB
+
 1.2 - x = not(A ⊕ B) * not(A + B)
+
 1.3 - x = not((C + notB) * (B ⊕ A))
+
 1.4 - x = not((B ⊕ C * A ⊕ B) + A ⊕ C)
 
 **2.- Draw the diagram for the logic equations below:**
 
 2.1 - Out1 = A + C + BD + (notB notD)
 
+![image](https://user-images.githubusercontent.com/88994602/141275382-6487dbf8-36bd-4c41-aa74-ff08c04b9a9e.png)
 
 2.2 - Out2 = notB + (notC notD) + CD
 
-
+![image](https://user-images.githubusercontent.com/88994602/141275403-444a45e5-eaf8-4eee-b6e3-3d24256edf46.png)
 
 2.3 - Out3 = B + notC + D
 
-
+![image](https://user-images.githubusercontent.com/88994602/141275562-8f8eaf10-dec8-453b-8372-864ec15b80d5.png)
 
 2.4 - Out4 = (notB notD) + (C notD) + (BCnotD) + (notB C) + A
 
+![image](https://user-images.githubusercontent.com/88994602/141275578-0bcede5d-e929-4b56-91c9-b79bd808c786.png)
 
 
 **3.- Simplify the K-map Tables below and write the logical equations:**
@@ -55,7 +60,17 @@ a) Any of the two windows is open when the main door is locked,
 b) The baranda’s door is open when the main door is locked,
 c) The TV screen is ON when the washing machine and the dish washing machine are ON.
 Add 2 more rules:
-d) The light from the room is on
-e) 
+d) The lamp from the living room is on and the TV is off
+e) The bathtub is full and the main door is unlocked
 
-To be continued
+Having this basis:
+
+![image](https://user-images.githubusercontent.com/88994602/141282709-2b78616c-83e7-45f8-b119-ffdde1de8481.png)
+
+Given number of variables, and in the sake of practicality, I used the Charlie Coleman K-Map online tool, and inputted the truth table, to get this result:
+
+![image](https://user-images.githubusercontent.com/88994602/141284331-81cec146-a84e-412e-bc3b-f1fcbc99d6a6.png)
+
+Having that, my equation for those 5 different situations turned out to be:
+
+**(notTV x L) + (TV x WM) + (notW x MD) + (notMD x BT) + (MD x notB)**
