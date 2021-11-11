@@ -74,3 +74,17 @@ Given number of variables, and in the sake of practicality, I used the Charlie C
 Having that, my equation for those 5 different situations turned out to be:
 
 **(notTV x L) + (TV x WM) + (notW x MD) + (notMD x BT) + (MD x notB)**
+
+It's to be noted, nonetheless, that this could've been done without the k-map and only using the initial notes. 
+
+In the first line, we have windows open (0) and *(which is literally AND)* main door locked (1) -> notWindows * MainDoor = notW * MD
+
+In the second line, we have baranda open (0) and main door locked (1) -> notBaranda * MainDoor = notB * MD
+
+In the third line, we have TV on (1) and washing machines on as well (1) -> TV * WashingMachines = TV * WM
+
+In the fourth line, we have lamp on (1) and TV off (0) -> notTV * Lamp = notTV * L
+
+In the fifth line, we have baththub full (1) and main door unlocked (0) -> Bathtub * notMainDoor = BT * notMD
+
+If we sum all of that, we get **(notW x MD) + (notB x MD) + (TV x WM) + (notTV x L) + (BT x notMD)**, which is the same result as before (but in a different order)
