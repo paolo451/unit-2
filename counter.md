@@ -62,3 +62,30 @@ void loop(){
   delay(waitTime);    
 }
  ```
+## Circuit for the number you want
+
+![image](https://user-images.githubusercontent.com/88994602/142127586-7469fe0a-9ec9-4495-9e24-828ae0e18a43.png)
+
+Here the image shows that when switches #1 and #3 are on, the leds display 101, in representation of number 5
+
+## Code for the number you want
+
+```.c
+int pin3 = 3;
+int pin4 = 4;
+int pin5 = 5;
+  
+
+void setup(){
+  pinMode(pin3, OUTPUT);
+  pinMode(pin4, OUTPUT);
+  pinMode(pin5, OUTPUT);
+  
+  digitalWrite(pin3, HIGH);
+  digitalWrite(pin4, HIGH);
+  digitalWrite(pin5, HIGH);  
+}
+
+void loop(){
+}
+```
