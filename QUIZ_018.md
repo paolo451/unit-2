@@ -28,10 +28,6 @@ def sum67(numbers):
             total += numbers[i]
         
     return total
-
-print(sum67([2,2,2,6,9992,7,3])
-
-print(sum67([2,7,2,3]))
 ```
 
 **Evidence that this works:**
