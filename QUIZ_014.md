@@ -1,6 +1,8 @@
 ## QUIZ #014
 
 ```.py
+## This function outputs True if the inputted numbers are evenly spaced
+
 def evenlySpaced(a,b,c):
     numbers = []
     res = False
