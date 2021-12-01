@@ -1,4 +1,4 @@
-## QUIZ #18
+## QUIZ #018
 
 ```.py
 ## This function outputs the sum of the numbers inputted, except those between the 6 and 7
