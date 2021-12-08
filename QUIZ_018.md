@@ -30,6 +30,11 @@ def sum67(numbers):
     return total
 ```
 
+**Flowchart**
+
+![quiz018](https://user-images.githubusercontent.com/88994602/145288661-d1d8c22a-65ab-4a64-8f8c-a3c059629c0e.png)
+
+
 **Evidence that this works:**
 
 ![image](https://user-images.githubusercontent.com/88994602/144288476-27930077-bad4-42a4-b54d-08edefe4d594.png)
