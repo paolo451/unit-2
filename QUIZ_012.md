@@ -14,6 +14,10 @@ def wordlength(words):
 
 ``` 
 
-Prove that this works:
+**Prove that this works:**
 
 ![image](https://user-images.githubusercontent.com/88994602/142161290-c15cecdf-22b5-4a06-8706-c6325f868d47.png)
+
+**Flowchart:**
+
+![quiz012](https://user-images.githubusercontent.com/88994602/145294190-8833cbd0-06ab-4341-886d-ccdc195dd02b.png)
