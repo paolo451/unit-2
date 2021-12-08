@@ -41,3 +41,8 @@ def cost(items, prices):
 ### Prove that this works:
 
 ![image](https://user-images.githubusercontent.com/88994602/142574480-28bbc211-bc84-4490-b2dd-55ef53b2c62e.png)
+
+**Flowchart:**
+
+![quiz013](https://user-images.githubusercontent.com/88994602/145294140-3b850012-72a4-4be4-82e5-74d301c140aa.png)
+
