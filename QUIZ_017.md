@@ -16,3 +16,7 @@ def triangle(a,b,c):
 **Evidence that this works:**
 
 ![image](https://user-images.githubusercontent.com/88994602/144291139-e1d19dd3-7798-418a-9afb-2de9241e2441.png)
+
+**Flowchart:**
+
+![quiz017](https://user-images.githubusercontent.com/88994602/145294363-4f85a00b-4778-4aa2-b0be-feb0b920387b.png)
