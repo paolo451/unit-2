@@ -25,3 +25,8 @@ def reverseMM(numbs):
 
 ![image](https://user-images.githubusercontent.com/88994602/143484668-7860cb45-89cb-447e-a560-71d4c0029f6f.png)
 
+**Flowchart**
+
+![quiz015](https://user-images.githubusercontent.com/88994602/145294066-d8033850-d3ec-4d55-a927-8a075a8c63e5.png)
+
+
