@@ -16,3 +16,7 @@ def reversed(word):
 **Evidence that this works**
 
 ![image](https://user-images.githubusercontent.com/88994602/144292320-3b1a5504-33ec-4f10-a601-ad0ac918c601.png)
+
+**Flowchart:**
+
+![quiz016](https://user-images.githubusercontent.com/88994602/145294311-93515b2b-c831-401d-bf08-2dac84511bfe.png)
