@@ -19,6 +19,11 @@ def MirroredTime(n):
     return answ
 ```
 
+**Flowchart:**
+
+![flowhwhchch](https://user-images.githubusercontent.com/88994602/145736725-46093608-0e22-40de-a8bb-0cc7ad3e305e.png)
+
+
 **Evidence that this works**
 ![image](https://user-images.githubusercontent.com/88994602/144557217-66a6e623-f903-40e1-81fb-7109b7679b3b.png)
 
